@@ -1,1 +1,10 @@
+*{
+    color: blue;
+    background-color: blueviolet;
+    text-align: center;
+    
+}
 
+img {
+    max-width: 60%; 
+}
